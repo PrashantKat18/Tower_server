@@ -1,5 +1,5 @@
 {
-    "HOST":"http://localhost",
-    "PORT":8071,
-    "userFolder" :"data"
+    "HOST": "http://localhost",
+    "PORT": 8080,
+    "userFolder": "data"
 }
